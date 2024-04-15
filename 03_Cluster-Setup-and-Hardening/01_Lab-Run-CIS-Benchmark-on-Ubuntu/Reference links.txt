@@ -1,0 +1,16 @@
+Reference links
+Download the CIS benchmark PDF’s from the below link:
+
+https://www.cisecurity.org/cis-benchmarks/#kubernetes
+
+Go to the `Server Software` section and click on the `Virtualization`. 
+
+There you will see multiple items that fall into the virtualization category such as VMware, docker and kubernetes. Now, move on to the Kubernetes and expand it to see more options then download CIS Kubernetes Benchmark version 1.6.0.
+
+Download the CIS CAT tool’ from the below link: 
+
+https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/cis-benchmarks-supported-by-cis-cat-pro/
+
+Download the CIS CAT Lite tool from the below link:
+
+https://learn.cisecurity.org/cis-cat-lite
